@@ -1,4 +1,4 @@
-<p><img alt="" src="https://github.com/Kanrog/Rook-2020-MK1/blob/main/Photos/2020_MK1_Small.jpg?raw=true" /></p>
+<p><img alt="" src="https://github.com/Kanrog/Rook-2020-MK1/blob/main/Photos/2020_MK1_small.jpg?raw=true" /></p>
 
 <p>My Documentation for the <a href="https://www.printables.com/model/447255">Rook-2020 3D Printer by Rolohaun</a><br />
 <br />
