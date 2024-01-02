@@ -1,11 +1,11 @@
 {
     "type": "machine",
-    "setting_id": "GM004",
-    "name": "Rook 2020 MK1 0.4 nozzle",
+    "setting_id": "GM003",
+    "name": "Rook MK1 0.4 nozzle",
     "from": "system",
     "instantiation": "true",
     "inherits": "fdm_machine_common",
-    "printer_model": "Rook 2020 MK1",
+    "printer_model": "Rook MK1",
     "default_print_profile": "0.20mm Standard @Rolohaun",
     "nozzle_diameter": [
         "0.4"
@@ -15,9 +15,9 @@
     ],
     "printable_area": [
       "0x0",
-      "120x0",
-      "120x120",
-      "0x120"
+      "110x0",
+      "110x110",
+      "0x110"
     ],
     "printable_height": "110",
     "machine_start_gcode": "M190 S[bed_temperature_initial_layer_single]\nM109 S[nozzle_temperature_initial_layer]\nSTART_PRINT T_EXTRUDER=[nozzle_temperature_initial_layer] T_BED=[bed_temperature_initial_layer_single]\n",

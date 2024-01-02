@@ -7,6 +7,7 @@
   "inherits": "fdm_process_common",
   "layer_height": "0.06",
   "compatible_printers": [
-    "Rook 2020 MK1 0.4 nozzle"
+    "Rook 2020 MK1 0.4 nozzle",
+	"Rook MK1 0.4 nozzle"
 	]
 }

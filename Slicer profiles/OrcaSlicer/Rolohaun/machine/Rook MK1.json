@@ -1,0 +1,12 @@
+{
+    "type": "machine_model",
+    "name": "Rook MK1",
+    "model_id": "Rook-MK1",
+    "nozzle_diameter": "0.4",
+    "machine_tech": "FFF",
+    "family": "Rolohaun",
+    "bed_model": "printbed-rook-120.stl",
+    "bed_texture": "bedtexture-rook-white-120.png",
+    "hotend_model": "",
+    "default_materials": "Rolohaun Generic ABS;Rolohaun Generic PLA;Rolohaun Generic PLA-CF;Rolohaun Generic PETG;Rolohaun Generic TPU;Rolohaun Generic ASA;Rolohaun Generic PC;Rolohaun Generic PVA;Rolohaun Generic PA;Rolohaun Generic PA-CF"
+}
