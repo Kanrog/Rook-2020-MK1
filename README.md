@@ -7,10 +7,8 @@ This is a place where you can find all the config files i use on my Rook-2020<br
 <em>All the files posted are my personal setup files for my spesific Rook setup and may not work on your printer.<br />
 Please only use my files as a reference.</em></p>
 
-I use Voron V0 slicer-profiles on my 2020.
-
 <br />
-<p> Please note that my printer uses 300mm Z extrusions, so my macros and configs are set up for this.<br />
+<p> Please note that my printer uses 300mm Z extrusions and my <a href= "https://www.printables.com/model/553721-sentinel-inductive-probe-2020"> probe mod for the sentinel</a>, so my macros and configs are set up for this.<br />
 <p> This has been built with the kit from Fabreeko. <br />
 
 <p style="margin-left:40px"><strong>My Setup:</strong><br />
